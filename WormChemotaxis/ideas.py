@@ -8,8 +8,11 @@ import sys
 
 # Open file
 filepath = "Chemotaxis-Data-and-Analysis/Mock_worms/chemotaxis_mock_25825_1_20250725_153953/metadata_featuresN_oneworm.hdf5"
+
 if "-a" in sys.argv:
     filepath = "Chemotaxis-Data-and-Analysis/Aversive_worms/chemotaxis_avsv_24_1_23_03_20240124_142324/metadata_featuresN_oneworm.hdf5"
+elif "-m" in sys.argv:
+    filepath = "Chemotaxis-Data-and-Analysis/Mock_worms/chemotaxis_mock_210825_3_20250722_161220/metadata_featuresN_oneworm.hdf5"
 elif "-s" in sys.argv:
     filepath = "Chemotaxis-Data-and-Analysis/sexually_conditioned_worms/chemotaxis_sexc_24_1_26_13_20240126_152252/metadata_featuresN_oneworm.hdf5"
 

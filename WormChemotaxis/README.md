@@ -22,9 +22,9 @@ Data here is more recently acquired, but a previous study using this type of dat
 
 ## Link(s) to dataset/supplementary information  
 
-Read the README.md here to understand the datasets.
+Read the README.md here to understand the datasets: https://github.com/Barrios-Lab/Chemotaxis-Data-and-Analysis
 
-https://github.com/Barrios-Lab/Chemotaxis-Data-and-Analysis
+**Videos** of some of the original recordings can be found here: https://rdr.ucl.ac.uk/articles/dataset/_b_Chemotaxis_Raw_Videos_b_/31390177/1
 
 ## Suggestions for easy tasks/low-hanging fruit   
 
@@ -34,7 +34,11 @@ Load in dataset in Jupyter notebook, create plot of trajectory as in paper above
 
 ## Suggestions for more involved tasks/further analyses 
 
-...
+Create an interactive display of the worm trajectory as is shown in the videos.
+
+<video width="540" height="310" controls>
+  <source src="https://rdr.ucl.ac.uk/ndownloader/files/62091505" type="video/mp4">
+</video>
 
 ## Is there someone who is happy to be contacted with questions about the paper/dataset (e.g. PhD student/postdoc)? 
 
