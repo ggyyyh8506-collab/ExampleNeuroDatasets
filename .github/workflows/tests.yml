@@ -54,7 +54,9 @@ jobs:
         cd WormChemotaxis
         pip install -r requirements.txt
 
-        git clone -b Worm-Locomotion https://github.com/Barrios-Lab/Chemotaxis-Data-and-Analysis.git
+        git clone https://github.com/Barrios-Lab/Chemotaxis-Data-and-Analysis.git
+
+        ls -alt
         
         python ideas.py
 

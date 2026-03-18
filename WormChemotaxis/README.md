@@ -38,6 +38,8 @@ Load in dataset in Jupyter notebook, create plot of trajectory as in paper above
 
 ## Suggestions for more involved tasks/further analyses 
 
+Plot some of the extracted/analysed properties in the [timeseries data](https://github.com/Barrios-Lab/Chemotaxis-Data-and-Analysis/tree/Worm-Locomotion?tab=readme-ov-file#key-features-in-timeseries_data), e.g. speed. 
+
 Create an interactive display of the worm trajectory as is shown in the videos.
 
 <video width="540" height="310" controls>
